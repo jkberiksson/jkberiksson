@@ -1,17 +1,6 @@
 # Hi there! 👋
 
-```javascript
-const Jakob = {
-  name: "Jakob",
-  age: 28,
-  city: "Kalmar",
-  pronouns: "he" || "him",
-  code: ["JavaScript", "HTML", "CSS", "Python", "PHP"],
-  tools: ["React", "Node.js"],
-  Welcome: "Welcome to my github profile!"
-};
-```
-
+I'm Jakob, a passionate frontend developer and web development enthusiast currently studying web development in my first year. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -33,9 +22,9 @@ const Jakob = {
 
 ## Let's Connect!
 
-- 📫 Feel free to reach out to me via [jkberiksson@gmail.com].
+- 📫 Feel free to reach out to me via [Gmail](jkberiksson@gmail.com).
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/jakob-eriksson-60904b207/).
-- 💬 Personal website coming soon!
+- 💬 Website/portfolio coming soon!
 
 ## Thank You for Visiting!
 
