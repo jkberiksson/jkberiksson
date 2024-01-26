@@ -13,3 +13,11 @@ When I'm not coding, you can find me hitting the gym, pushing my limits, and sta
 
 ### Let's Connect!
 If you're interested in collaborating on projects, discussing web development trends, or just chatting about frontend magic, feel free to reach out! I'm always open to connecting with fellow developers, mentors, and enthusiasts who share a passion for crafting exceptional web experiences.
+
+### Sample Code Snippet
+
+```python
+def greet(name):
+    print("Hello, " + name + "!")
+
+greet("World")
