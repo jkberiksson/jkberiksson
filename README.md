@@ -38,3 +38,17 @@ const jakob = {
 ## Thank You for Visiting!
 
 Thank you for stopping by! Feel free to explore my repositories, check out my projects, and connect with me. Let's collaborate, learn, and grow together in the exciting world of web development!
+
+
+### Sample Code Snippet
+
+```javascript
+const Jakob = {
+  name: "Jakob",
+  age: 28,
+  city: "Kalmar",
+  pronouns: "he" || "him",
+  code: ["JavaScript", "HTML", "CSS", "Python", "PHP"],
+  tools: ["React", "Node.js"],
+  Welcome: "Welcome to my github profile!"
+};
