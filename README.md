@@ -1,6 +1,15 @@
 # Hi there! 👋
 
-I'm Jakob, a passionate frontend developer and web development enthusiast currently studying web development in my first year. Welcome to my GitHub profile!
+const jakob = {
+  name: "Jakob",
+  age: 28,
+  city: "Kalmar",
+  pronouns: "he" || "him",
+  code: ["JavaScript", "HTML", "CSS", "Python", "PHP"],
+  tools: ["React", "Node.js"],
+  Welcome: "Welcome to my github profile!"
+};
+
 
 ## About Me
 
