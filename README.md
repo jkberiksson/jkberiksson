@@ -10,6 +10,8 @@ I'm Jakob, a passionate web dev student currently in my first year. Welcome to m
 
 ## My Interests
 
+- 🎂 Age: 28
+- 📍 Born and raised: Kalmar, Sweden
 - 💻 Web development
 - 🏋️‍♂️ Fitness
 - 🤝 Family and friends
