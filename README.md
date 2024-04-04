@@ -7,7 +7,7 @@ I'm Jakob, a passionate web dev student currently in my first year. Welcome to m
 - 🎂 Age: 28
 - 📍 Born and raised: Kalmar, Sweden
 - 🌱 I'm currently learning web development.
-- 💼 I'm actively seeking internship opportunities in web development to apply my skills and gain practical experience.
+- 💼 I'm seeking internship opportunities in web development to apply my skills and gain experience.
 - 🎓 Studying at Blekinge Tekniska Högskola also known as BTH.
 
 ## My Interests
