@@ -3,6 +3,7 @@
 I'm Jakob, a passionate web dev student currently in my first year. Welcome to my GitHub profile!
 
 ## About Me
+
 - 🎂 Age: 28
 - 📍 Born and raised: Kalmar, Sweden
 - 🌱 I'm currently learning web development.
