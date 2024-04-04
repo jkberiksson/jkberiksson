@@ -21,7 +21,7 @@ I'm Jakob, a passionate web dev student currently in my first year. Welcome to m
 
 ## Let's Connect!
 
-- 📫 Feel free to reach out to me via [Gmail](jkberiksson@gmail.com)
+- 📫 Feel free to reach out to me via [Gmail](jkberiksson@gmail.com).
 - 💬 Website/portfolio coming soon!
 
 ## Thank You for Visiting!
