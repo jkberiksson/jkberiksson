@@ -10,7 +10,7 @@ I'm Jakob, a passionate web dev student currently in my first year. Welcome to m
 
 ## My Interests
 
-- 💻 Frontend Development/Frontend development
+- 💻 Web development
 - 🏋️‍♂️ Fitness
 - 🤝 Family and friends
 
@@ -21,8 +21,7 @@ I'm Jakob, a passionate web dev student currently in my first year. Welcome to m
 
 ## Let's Connect!
 
-- 📫 Feel free to reach out to me via [Gmail](jkberiksson@gmail.com).
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/jakob-eriksson-60904b207/).
+- 📫 Feel free to reach out to me via [Gmail](jkberiksson@gmail.com)
 - 💬 Website/portfolio coming soon!
 
 ## Thank You for Visiting!
