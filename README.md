@@ -3,15 +3,14 @@
 I'm Jakob, a passionate web dev student currently in my first year. Welcome to my GitHub profile!
 
 ## About Me
-
+- 🎂 Age: 28
+- 📍 Born and raised: Kalmar, Sweden
 - 🌱 I'm currently learning web development.
 - 💼 I'm actively seeking internship opportunities in web development to apply my skills and gain practical experience.
 - 🎓 Studying at Blekinge Tekniska Högskola also known as BTH.
 
 ## My Interests
 
-- 🎂 Age: 28
-- 📍 Born and raised: Kalmar, Sweden
 - 💻 Web development
 - 🏋️‍♂️ Fitness
 - 🤝 Family and friends
