@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Jakob, a passionate web dev student currently in my first year. Welcome to my GitHub profile!
+I'm Jakob, a passionate web dev student just finished my first year. Welcome to my GitHub profile! Here you can find my personal projects.
 
 ## About Me
 
