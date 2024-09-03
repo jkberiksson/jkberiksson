@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Jakob, a passionate web dev student and I just finished my first year at uni. Here you can find my personal projects.
-
 ## About Me
 
 - 🎂 Age: 28
@@ -25,5 +23,3 @@ Welcome to my GitHub profile! I'm Jakob, a passionate web dev student and I just
 - 📫 Feel free to reach out to me via [Gmail](jkberiksson@gmail.com).
 
 ## Thank You for Visiting!
-
-Thank you for stopping by! Feel free to explore my repositories, check out my projects, and connect with me!
