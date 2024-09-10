@@ -5,7 +5,7 @@
 - 🎂 Age: 28
 - 📍 Born and raised: Kalmar, Sweden
 - 🌱 I'm currently learning web development.
-- 🎓 Studying at Blekinge Tekniska Högskola also known as BTH.
+- 🎓 Studying at Blekinge Tekniska Högskola.
 
 ## My Interests
 
