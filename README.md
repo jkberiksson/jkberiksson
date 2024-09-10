@@ -4,7 +4,7 @@
 
 - 🎂 Age: 28
 - 📍 Kalmar, Sweden
-- 🌱 I'm currently learning web development.
+- 🌱 Currently learning web development.
 - 🎓 Studying at Blekinge Tekniska Högskola.
 
 ## My Interests
