@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎂 Age: 28
-- 📍 Born and raised: Kalmar, Sweden
+- 📍 Kalmar, Sweden
 - 🌱 I'm currently learning web development.
 - 🎓 Studying at Blekinge Tekniska Högskola.
 
