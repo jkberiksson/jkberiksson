@@ -18,8 +18,4 @@
 - 🚀 Building personal projects to apply and solidify my webdev skills.
 - 📚 School work.
 
-## Let's Connect!
-
-- 📫 Feel free to reach out to me via [Gmail](jkberiksson@gmail.com).
-
 ## Thank You for Visiting!
