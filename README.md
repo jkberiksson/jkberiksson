@@ -18,4 +18,4 @@
 - 🚀 Building personal projects to apply and solidify my webdev skills.
 - 📚 School work.
 
-## Thank You for Visiting!
+## Thank You For Visiting!
