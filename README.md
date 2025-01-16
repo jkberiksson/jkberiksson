@@ -4,6 +4,7 @@ I'm a passionate web developer based in Kalmar, Sweden (though I’m often on th
 
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Framer Motion
+- ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&color=61DAFB)
 - ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 - **Backend:** Node.js, Express, MongoDB, Mongoose
 - **Tools:** GitHub, Docker, Netlify (for deployment)
