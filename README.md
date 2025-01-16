@@ -4,12 +4,13 @@ I'm a passionate web developer based in Kalmar, Sweden (though I’m often on th
 
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Framer Motion
+- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 - **Backend:** Node.js, Express, MongoDB, Mongoose
 - **Tools:** GitHub, Docker, Netlify (for deployment)
 
 ## Current Projects
 ### E-Scooter App
-A feature-rich application with login and scooter rental capabilities, including a web app for both admin and customers, built using **Node.js**, **Express**, **MongoDB**, **React**, and **Tailwind CSS**.
+A feature-rich application with login and scooter rental capabilities, including a web app for both admin and customers, built using **MERN** stack.
 
 ## Interests
 - Sports, gym, football
