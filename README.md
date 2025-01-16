@@ -17,6 +17,7 @@ A feature-rich application with login and scooter rental capabilities, including
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/jakob-eriksson-60904b207/)
+- [Portfolio](https://www.jkberiksson.com)
 - [GitHub](https://github.com/jkberiksson)
 
 Thank you for visiting my profile!
