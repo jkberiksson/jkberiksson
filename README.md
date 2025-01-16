@@ -7,9 +7,9 @@ I'm a passionate web developer based in Kalmar, Sweden (though I’m often on th
 - **Backend:** Node.js, Express, MongoDB, Mongoose
 - **Tools:** GitHub, Docker, Netlify (for deployment)
 
-## Current Projects
+## Current Project
 ### E-Scooter App
-A feature-rich application with login and scooter rental capabilities, including a web app for both admin and customers, built using **MERN** stack.
+A feature-rich application with login and scooter rental capabilities, including a web app for both admin and customers, built using the **MERN** stack.
 
 ## Interests
 - Sports, gym, football
