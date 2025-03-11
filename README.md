@@ -9,7 +9,7 @@ I'm a passionate web developer based in Kalmar, Sweden (though I’m often on th
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/jakob-eriksson-60904b207/)
-- [Portfolio](https://www.jkberiksson.com)
+- [Portfolio](https://www.jakoberiksson.com)
 - [GitHub](https://github.com/jkberiksson)
 
 Thank you for visiting my profile!
