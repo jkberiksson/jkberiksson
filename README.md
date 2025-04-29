@@ -5,7 +5,7 @@ I'm a passionate web developer based in Kalmar, Sweden (though I’m often on th
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Framer Motion
 - **Backend:** Node.js, Express, MongoDB, Mongoose
-- **Tools:** GitHub, Docker, Netlify (for deployment)
+- **Tools:** GitHub, Docker, Vercel (for deployment)
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/jakob-eriksson-60904b207/)
