@@ -1,8 +1,8 @@
 # Hi there, I'm Jakob 👋
 
 ## 🚀 Skills
-**Frontend:** React, Next.js, React Native, Expo, Tailwind CSS, Framer Motion
-**Backend:** Node.js, Express, MongoDB, Mongoose, Supabase
+**Frontend:** React, Next.js, React Native, Expo, Tailwind CSS, Framer Motion  
+**Backend:** Node.js, Express, MongoDB, Mongoose, Supabase  
 **Tools & Deployment:** GitHub, Docker, Vercel  
 
 ## 💻 Current Project
