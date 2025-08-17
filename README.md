@@ -23,7 +23,7 @@ All wrapped in a **fast, intuitive UX**, built with **React Native & Expo**.
 ## 🎯 Interests
 - Sports (football, golf, gym)  
 - Spending time with friends & family
-- 
+  
 ---
 
 ✨ Thanks for stopping by my profile!
